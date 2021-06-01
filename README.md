@@ -10,8 +10,7 @@
 • Языки программирования: Swift(1), PHP/JS(2)
 • API/Frameworks: Alamofire, SwiftyJSON, GCD
 • Databases: CoreData, REALM, Firebase
-• Архитектуры: MVC, MVP, MVVM, Clean Swift
-* Понимаю архитектуру VIPER, но для одного человека считаю нецелесообразно её использовать, поэтому практики нет.
+• Архитектуры: MVC, MVP, MVVM, Clean Swift (Понимаю архитектуру VIPER, но для одного человека считаю нецелесообразно её использовать, поэтому практики нет)
 • Технологии: Autolayout, REST API, SOLID, GIT
 • Менеджеры зависимости: CocoaPods, Carthage
 • Могу верстать кодом(constraints), или со Storyboard и xib
