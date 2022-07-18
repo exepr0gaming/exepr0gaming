@@ -16,7 +16,7 @@
 • Менеджеры зависимости: CocoaPods, SPM, (Carthage)</br>
 • Верстаю на прекрасном SwiftUI с Canvas, (сквозь слёзы можно и кодом(constraints), или со Storyboard и xib)</p>
 
-📄 Для более детальной информации ознакомьтесь с моим <a href="https://drive.google.com/file/d/1f2RAhhkahBm17fASZIxBoahj68pjAgJy/view?usp=sharing" rel="nofollow">Резюме</a>
+📄 Для более детальной информации ознакомьтесь с моим <a href="https://drive.google.com/file/d/1SpVcB1UJYebwgfaL3DLxxQQlhU0wdmyv/view?usp=sharing" rel="nofollow">Резюме</a>
 
 📫 Контакты для связи: <a href="https://wa.me/79671011019?text=Vacancy%20iOS-Developer" rel="nofollow">Whatsapp</a>, <a href="https://telegram.me/MoTivaTion_4LiFe" rel="nofollow">Telegramm</a>
 
