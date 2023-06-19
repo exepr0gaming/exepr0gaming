@@ -6,7 +6,7 @@
 • Есть желание учиться новым технологиям, посещать конференции и развиваться в этой области</p>
 
 <p>💡 Технические навыки: </br>
-🛠 Стек: (SwiftUI + MVVM + Combine).
+🛠 Стек: (SwiftUI + MVVM + Combine).</br>
 • API/Frameworks: Alamofire, SwiftyJSON, GCD, AVFoundation (engine и многопоточные плейеры), CoreLocation, SystemConfiguration Network(+Ext)/CoreTelephony (сервисы cell/wifi/bt)</br>
 • Databases: Firebase, (CoreData, Realm)</br>
 • Архитектуры: MVVM, (MVC, MVP, Clean Swift), Viper только за большие деньги</br>
