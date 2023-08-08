@@ -17,7 +17,7 @@
 • Figma, Sketch, After Effects (Lottie/Rive анимации), Photoshop.</br>
 </p>
 
-📄 Для более детальной информации ознакомьтесь с моим <a href="https://drive.google.com/file/d/1XiTdgp5e5gZwAaoPk4Su4WNq_2e55Z-1/view?usp=drive_link" rel="nofollow">Резюме</a>
+📄 Для более детальной информации ознакомьтесь с <a href="https://drive.google.com/file/d/1XiTdgp5e5gZwAaoPk4Su4WNq_2e55Z-1/view?usp=drive_link" rel="nofollow">Резюме</a> и <a href="https://drive.google.com/file/d/1bQ6q7MsvtrLg4qp2U0J0OXnQDPTg8M-o/view?usp=sharing" rel="nofollow">CV</a>
 
 📫 Контакты для связи: <a href="https://telegram.me/MoTivaTion_4LiFe" rel="nofollow">Telegramm</a>m <a href="https://wa.me/79671011019?text=Vacancy%20iOS-Developer" rel="nofollow">Whatsapp</a>
 
