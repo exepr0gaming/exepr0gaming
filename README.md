@@ -1,27 +1,39 @@
-<p>👋 Привет, я • iOS-разработчик, (1+ UIkit, 2+ SwiftUI), 5 лет WebРазработки, 4 приложения в AppStore</br>
-• Умею гуглить, искать решения сложных и нестандартных задач (chatGPT со мной на Вы).</br>
-• Понимаю важность создания читаемого и поддерживаемого кода, и теперь всегда пишу его так, будто сопровождать его будет склонный к насилию психопат, который знает, где я живу</br>
-• Слежу за всеми новыми фичами, разработкой и реализую их на практике</br>
-• Обладаю хорошими аналитическими способностями, люблю задачи и шахматы</br>
-• Есть желание учиться новым технологиям, посещать конференции и развиваться в этой области</p>
+<p><strong>iOS Developer (1+ year UIKit, 4+ years SwiftUI), Extensive Web Development Experience, Multiple Apps in the App Store</strong></p>
 
-<p>💡 Технические навыки: </br>
-🛠 Стек: (SwiftUI + MVVM + Combine).</br>
-• API/Frameworks: Alamofire, SwiftyJSON, GCD, AVFoundation (engine и многопоточные плейеры), CoreLocation, SystemConfiguration Network(+Ext)/CoreTelephony (сервисы cell/wifi/bt)</br>
-• Databases: Firebase, (CoreData, Realm)</br>
-• Архитектуры: MVVM, (MVC, MVP, Clean Swift), Viper только за большие деньги</br>
-• Менеджеры зависимости: SPM, CocoaPods, (Carthage)</br>
-• Верстаю на прекрасном SwiftUI с Canvas, (можно кодом/SnapKit)</br>
-• Git/GitHub, REST API, Autolayout, Push Notifications, (SOLID, KISS, DRY)</br>
-• Опыт создания/переноса бэка - Vapor, Docker/docker-compose, Postgresql, Redis для фоновых задач (под iOS/Android/Web)</br>
-• Figma, Sketch, After Effects (Lottie/Rive анимации), Photoshop.</br>
+<ul>
+<li> Able to analyze, research, and find answers to complex and non-standard questions (communicating with many of you). </li>
+<li> I understand the importance of writing readable and maintainable code, and I strongly believe that this is the key to effective collaboration. I hope someone knows where I live. </li>
+<li> I stay up to date with innovations, development trends, and practical optimizations. </li>
+<li> I have strong analytical skills, enjoy problem-solving, and love playing chess. </li>
+<li> Do you want to learn new technologies, negotiate effectively, and grow in your industry? Let's connect! </li>
+</ul>
+
+<p>💡 <strong>Technical Innovations:</strong></p>
+
+<p>🛠 <strong>Stack:</strong> (SwiftUI + MVVM + Combine harvester).</p>
+
+<ul>
+<li> <strong>API & Frameworks:</strong> Alamofire, SwiftyJSON, GCD, AVFoundation (engine & multithreaded applications), CoreLocation, Network System Configuration (+Extensions), CoreTelephony (cellular/Wi-Fi/Bluetooth servers). </li>
+<li> <strong>Databases:</strong> Firebase, CoreData, Realm. </li>
+<li> <strong>Architectures:</strong> MVVM, MVC, MVP, Clean Swift (VIPER only for big projects 💰). </li>
+<li> <strong>Package Managers:</strong> Swift Package Manager (SPM), CocoaPods, Carthage. </li>
+<li> <strong>UI Development:</strong> SwiftUI Canvas, SnapKit (possibly). </li>
+<li> <strong>Version Control & APIs:</strong> Git/GitHub, REST API, Automated UI Rendering, Push Notifications (SOLID, KISS, DRY). </li>
+<li> <strong>Backend & DevOps:</strong> Experience in creating/porting backend solutions using Vapor, Docker/docker-compose, PostgreSQL, Redis for mobile devices (iOS/Android/Web). </li>
+<li> <strong>Design Tools:</strong> Figma, Sketch, After Effects (Lottie/Reeve Animator), Photoshop. </li>
+</ul>
+
+<p>📌 <strong>For more details, check out:</strong><br/>
+🔗 <a href="https://drive.google.com/file/d/1XiTdgp5e5gZwAaoPk4Su4WNq_2e55Z-1/view?usp=drive_link" rel="nofollow">Resume Link</a> |  
+<a href="https://drive.google.com/file/d/1bQ6q7MsvtrLg4qp2U0J0OXnQDPTg8M-o/view?usp=sharing" rel="nofollow">Summary</a>  
 </p>
 
-📄 Для более детальной информации ознакомьтесь с <a href="https://drive.google.com/file/d/1XiTdgp5e5gZwAaoPk4Su4WNq_2e55Z-1/view?usp=drive_link" rel="nofollow">Резюме</a> и <a href="https://drive.google.com/file/d/1bQ6q7MsvtrLg4qp2U0J0OXnQDPTg8M-o/view?usp=sharing" rel="nofollow">CV</a>
-
-📫 Контакты для связи: <a href="https://telegram.me/MoTivaTion_4LiFe" rel="nofollow">Telegramm</a>m <a href="https://wa.me/79671011019?text=Vacancy%20iOS-Developer" rel="nofollow">Whatsapp</a>
+<p>📬 <strong>Contacts:</strong><br/>
+📲 <a href="https://telegram.me/MoTivaTion_4LiFe" rel="nofollow">Telegram</a> |  
+<a href="https://wa.me/79671011019?text=Vacancy%20iOS-Developer" rel="nofollow">WhatsApp</a>  
+</p>
 
 <!---
-exepr0gaming/exepr0gaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+exepr0gaming/exepr0gaming is a "special" repository because its "README.md" (this file) is displayed on your GitHub profile.
+You can follow the preview link to view the changes made.
 --->
